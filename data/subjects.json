@@ -1,0 +1,137 @@
+
+{
+  "Quantitative Aptitude": {
+    "description": "Develop numerical problem-solving skills.",
+    "topics": {
+      "Percentage": {
+        "introduction": "Percentage represents a quantity as a fraction of 100.",
+        "concepts": [
+          "Percentage = (Part / Whole) × 100",
+          "To find x% of a number, multiply it by x/100.",
+          "Percentage change is calculated relative to the original value."
+        ],
+        "formula": "Percentage = (Value / Total) × 100",
+        "example": "Find 20% of 500. Solution: (20/100) × 500 = 100.",
+        "important": [
+          "Convert fractions into percentages by multiplying by 100.",
+          "Always use the original value when calculating percentage change."
+        ]
+      },
+      "Profit and Loss": {
+        "introduction": "Profit and loss measure financial gain or loss in a transaction.",
+        "concepts": [
+          "Profit = Selling Price - Cost Price",
+          "Loss = Cost Price - Selling Price",
+          "Profit percentage is calculated using cost price."
+        ],
+        "formula": "Profit % = (Profit / Cost Price) × 100",
+        "example": "Cost price = 400 and selling price = 500. Profit = 100. Profit percentage = 25%.",
+        "important": [
+          "Cost price is the purchasing price.",
+          "Selling price determines the profit or loss."
+        ]
+      }
+    }
+  },
+  "Logical Reasoning": {
+    "description": "Improve logical thinking and analytical abilities.",
+    "topics": {
+      "Number Series": {
+        "introduction": "Number series questions require identifying patterns in sequences.",
+        "concepts": [
+          "Check consecutive differences.",
+          "Look for multiplication or division patterns.",
+          "Consider alternating sequences."
+        ],
+        "formula": "Next term = Previous term + Common Difference",
+        "example": "2, 4, 6, 8, ? Answer: 10.",
+        "important": [
+          "Check whether the difference is constant.",
+          "Look for square, cube and prime number patterns."
+        ]
+      },
+      "Coding and Decoding": {
+        "introduction": "Coding and decoding questions use systematic transformations of letters.",
+        "concepts": [
+          "Alphabet positions: A=1, B=2, ..., Z=26.",
+          "Letters may be shifted forward or backward.",
+          "Some questions use reversed alphabets."
+        ],
+        "formula": "New position = Original position + Shift",
+        "example": "CAT becomes DBU by shifting each letter one position forward.",
+        "important": [
+          "Identify the transformation before solving.",
+          "Check every letter independently."
+        ]
+      }
+    }
+  },
+  "Data Interpretation": {
+    "description": "Interpret numerical information using tables and graphs.",
+    "topics": {
+      "Bar Graphs": {
+        "introduction": "Bar graphs compare values across different categories.",
+        "concepts": [
+          "Read category labels carefully.",
+          "Compare bar heights using the vertical scale.",
+          "Calculate totals and differences."
+        ],
+        "formula": "Percentage Difference = (Difference / Original Value) × 100",
+        "example": "Sales increase from 100 to 150 units. Percentage increase = 50%.",
+        "important": [
+          "Always check the scale of the graph.",
+          "Distinguish absolute difference from percentage difference."
+        ]
+      },
+      "Pie Charts": {
+        "introduction": "Pie charts represent proportions of a whole.",
+        "concepts": [
+          "A complete pie chart represents 360 degrees.",
+          "Each sector represents a proportion of the total.",
+          "Sector angles can be converted into percentages."
+        ],
+        "formula": "Sector Angle = (Category Value / Total) × 360",
+        "example": "A sector of 90 degrees represents 25% of the total.",
+        "important": [
+          "All sector angles must add up to 360 degrees.",
+          "Use the total value when calculating proportions."
+        ]
+      }
+    }
+  },
+  "Computer Fundamentals": {
+    "description": "Understand essential computer science concepts.",
+    "topics": {
+      "Operating Systems": {
+        "introduction": "An operating system manages computer hardware and software resources.",
+        "concepts": [
+          "Process management",
+          "Memory management",
+          "File management",
+          "Device management"
+        ],
+        "formula": "CPU Utilization = (CPU Busy Time / Total Time) × 100",
+        "example": "Windows, Linux and macOS are examples of operating systems.",
+        "important": [
+          "The operating system acts as an interface between users and hardware.",
+          "Process scheduling determines which process receives CPU time."
+        ]
+      },
+      "Database Management": {
+        "introduction": "A DBMS stores, organizes and manages structured information.",
+        "concepts": [
+          "Tables contain rows and columns.",
+          "Primary keys uniquely identify records.",
+          "Foreign keys establish relationships between tables.",
+          "SQL manages relational databases."
+        ],
+        "formula": "A relational table consists of attributes (columns) and tuples (rows).",
+        "example": "A student table may contain Student_ID, Name and Department.",
+        "important": [
+          "A primary key uniquely identifies a record.",
+          "Normalization reduces unnecessary data redundancy."
+        ]
+      }
+    }
+  }
+}
